@@ -1,0 +1,487 @@
+.nav{
+    height: 80px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo_image{
+    height: 70px;
+}
+
+.nav_log{
+    color: #a8afbd;
+    height: 40px;
+    width: 80px;
+    font-size: 14px;
+    border-radius: 10px;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-right: 50px;
+    background-color: black;
+    border: none;
+}
+
+.nav_log:hover{
+    cursor: pointer;
+    color: white;
+    background-color: #3a3c3f;
+}
+
+.nav_p{
+    width: 30%;
+    text-align: right;
+}
+
+
+.nav_img{
+    width: 30%;
+}
+
+.container{
+    height: 1200px;
+    width: 100%;
+}
+
+.font1{
+    font-family: Graphik, Helvetica, Arial, sans-serif;
+}
+
+.font_color{
+    color: #ffffff;
+}
+
+.font2{
+    font-family: "Graphik Web", Graphik, sans-serif;
+}
+
+.box1{
+    border: 1px solid black;
+    height: 600px;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0, 0,0,0.3)),url("https://cnbl-cdn.bamgrid.com/assets/62ed936344e6ffbac48c896b2bd327fe171521dd941b6ddc8402e2eae50116fc/original");
+    background-size: cover;
+}
+
+
+
+.hulu_disney_div{
+    height: 400px;
+    width: 65%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.first_line_div{
+    width: 60%;
+    margin: auto;
+}
+
+.hulu_img{
+    margin-left: 60%;
+}
+
+.first_line_div p{
+    font-family: Graphik, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: rgb(3,207,114);
+    font-weight: 600;
+    text-align: center;
+}
+
+.combined_img_div{
+    display: flex;
+    height: 100px;
+}
+
+.combined_get{
+    font-size: 24px;
+    font-weight: 600;
+    margin-left: 12%;
+}
+
+.get_them_btn{
+    height: 50px;
+    width: 90%;
+    margin-left: 50px;
+    border-radius: 5px;
+    background-color: rgb(3,207,114);
+    border: none;
+    font-size: 14px;
+    font-weight: 600;
+    color: #040405;
+}
+
+.get_them_btn:hover{
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+.combined_terms{
+    font-weight: 400;
+    font-size: 14px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.combined_terms:hover{
+    cursor: pointer;
+}
+
+.combined_hulu_only{
+    font-weight: 400;
+    font-size: 16px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.combined_hulu_only:hover{
+    cursor: pointer;
+}
+
+
+.triple_combo_div{
+    height: 150px;
+    display: flex;
+}
+
+.triple_combo_img_div{
+    height: 100%;
+    width: 30%;
+}
+
+.triple_combo_img_div img{
+    height: 80px;
+    width: 80%;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.triple_combo_heading_div{
+    height: 150;
+    width: 40%;
+}
+
+.triple_combo_heading{
+    font-size: 14px;
+    color: rgb(3,207,114);
+    font-weight: 600;
+}
+
+.triple_combo_para{
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.triple_combo_btn_div{
+    height: 150px;
+    width: 25%;
+    margin-left: 5%;
+}
+
+.triple_combo_button{
+    height: 50px;
+    width: 150px;
+    border-radius: 5px;
+    border: none;
+    margin: 40px 0 0 100px;
+    background-color: rgb(3,207,114);
+    border: none;
+    font-size: 14px;
+    font-weight: 600;
+    color: #040405;
+}
+
+.triple_combo_button:hover{
+    cursor: pointer;
+    background-color: rgb(4, 122, 69);
+}
+
+.triple_combo_terms{
+    font-size: 10px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.box2{
+    border: 1px solid black;
+    height: 320px;
+    background-color: rgb(11,12,15);
+}
+
+.box2_top_div{
+    height: 50px;
+    width: 30%;
+    margin: auto;
+    margin-top: 25px;
+}
+
+.top_para{
+    font-size: 14px;
+    color: rgb(3,207,114);
+    font-weight: 600;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.box2_mid_div{
+    height: 80px;
+    width: 60%;
+    margin: auto;
+}
+
+.box2_mid{
+    font-size: 42px;
+    font-weight: 800;
+    text-align: center;
+    padding-bottom: 35px;
+    margin-top: 20px;
+}
+
+.box2_bottom_div{
+    height: 80px;
+    width: 57%;
+    margin: auto;
+}
+
+.box2_bottom_para{
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+}
+
+.box3{
+    height: 500px;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+}
+
+.box3_inner{
+    height: 95%;
+    width: 23%;
+    margin-top: 15px;
+}
+
+.box3_inner:hover{
+    cursor: pointer;
+}
+
+.inner1{
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0, 0,0,0.3)), url("https://cnbl-cdn.bamgrid.com/assets/1fe40561415a61a95726ada4467fc374fa6f9667028c0d249d8c2c594160777e/original") ;
+    background-size: cover;
+}
+
+.inner2{
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0, 0,0,0.3)),url("https://cnbl-cdn.bamgrid.com/assets/8c630a19daa8615918152082839724f4dab6538939ba7d3bb45f8faa97acf1b9/original");
+    background-size: cover;
+}
+
+.inner3{
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0, 0,0,0.3)), url("https://cnbl-cdn.bamgrid.com/assets/89cea7fd1cb42712c4aeb2d6a9629f9c76a12691359f8feef14b2f93eddfe46c/original");
+    background-size: cover;
+}
+
+.inner4{
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0, 0,0,0.3)),url("https://cnbl-cdn.bamgrid.com/assets/4bae266f4178c145a7285dd09aafff4bc40a8e463cbcee1a8b3f27fb3f7a42ba/original");
+    background-size: cover;
+}
+
+.box3_inner_heading{
+    font-weight: 700;
+    font-size: 12px;
+    margin-left: 15px;
+}
+
+.box3_inner_para{
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 15px;
+}
+
+.box4{
+    border: 1px solid #040405;
+    height: 650px;
+    background-color: #040405;
+}
+
+.box4_para_div{
+    height: 120px;
+    width: 55%;
+    margin: auto;
+    margin-top: 5px;
+}
+
+.box4_inner_para{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 5px;
+    padding-bottom: 30px;
+}
+
+.box4_small_text{
+    font-size: 12px;
+    text-align: center;
+    margin-top: 5px;
+    padding-top: 15px;
+}
+
+.box5{
+    border-top: 1px solid black;
+    height: 700px;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0, 0,0,0.3)),url("https://cnbl-cdn.bamgrid.com/assets/b8c6dfb74d0a755e8df205721c87b1f8b74821b4229c78492ecca29a2635db9e/original");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.box_5_heading_div{
+    height:480px;
+    width: 40%;
+    margin-top: 50px;
+    margin-left: 150px;
+}
+
+.box_5_heading_top_div{
+    height: 50px;
+    justify-content: space-around;
+    display: flex;
+}
+
+.heading_div_each{
+    font-size: 12px;
+    font-weight: 700;
+    border-bottom: 5px solid white; 
+}
+
+.heading_div_each:hover{
+    cursor: pointer;
+    color: #a8afbd;
+}
+
+.heading_div_all{
+    font-size: 12px;
+    font-weight: 700;
+    color: #a8afbd;
+}
+
+.heading_div_all:hover{
+    cursor: pointer;
+    color: #9299a5;
+}
+
+.box5_main_heading_div{
+    height: 100px;
+    margin-top: 5px;
+}
+
+.box5_main_heading{
+    font-weight: 600;
+    font-size: 48px;
+    margin-left: 35px;
+}
+
+.box5_main_para{
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 35px;
+}
+
+.sports_brands{
+    display: flex;
+    width: 60%;
+    justify-content: space-around;
+    margin-left: 35px;
+}
+
+.sports_brands_space{
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    background-color: #ffffff;
+}
+
+.sports_brand_logo{
+    height: 28px;
+    margin-top: 10px;
+}
+
+.sports_brand_logo_1{
+    height: 20px;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+
+.sports_tv_terms{
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 10px;
+    margin-top: 15px;
+    margin-left: 35px;
+}
+
+.footer{
+    height: 500px;
+    background-color: rgb(232,234,237);
+}
+
+.footer1{
+    height: 60%;
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    width: 80%;
+    margin: auto;
+    padding-top: 15px;
+}
+
+.footer_link{
+    display: block;
+    color: #586174;
+    font-weight: 500;
+    font-size: 14px;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.footer_list{
+    width: 150px;
+}
+
+.footer_heading{
+    font-weight: 700;
+    font-size: 14px;
+    color: #272c34;
+}
+
+.footer1_inner2{
+    margin-top: 25px;
+}
+
+.footer_line{
+    width: 80%;
+}
+
+.footer2{
+    height: 25%;
+}
+
+.footer_icons{
+    height: 50px;
+    width: 15%;
+    margin-left: 130px;
+    margin-top: 35px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.privacy_footer{
+    height: 30px;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.privacy_footer_details{
+    color: #586174;
+    font-weight: 400;
+    font-size: 12px;
+}
